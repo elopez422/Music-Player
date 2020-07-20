@@ -1,0 +1,32 @@
+addSong C:/Users/Mayssaa/CS211/HW4/IDontWantToLiveForever TaylorSwift Wedding 4.17
+addSong C:/Users/Mayssaa/CS211/HW4/CantStopTheFeeling JustinTimberlake Pop 4.46
+addSong C:/Users/Mayssaa/CS211/HW4/BreathingUnderwater EmiliSande Wedding 3.51
+addSong C:/Users/Mayssaa/CS211/HW4/SweetCaroline NeilDiamond Wedding 3.31
+addSong C:/Users/Mayssaa/CS211/HW4/ThinkingOutLoud EdSheeran Wedding 4.56
+addSong C:/Users/Mayssaa/CS211/HW4/TheWheelsOnTheBus LittleBabyBum Kids 2.17
+addSong C:/Users/Mayssaa/CS211/HW4/IceCreamSong LittleBabyBum Kids 1.49
+addSong C:/Users/Mayssaa/CS211/HW4/FrereJacques LesComptineDeGabriel Kids 1.33
+addSong C:/Users/Mayssaa/CS211/HW4/HeadShoulderKneesAndToes ChuchuTV Kids 2.11
+addSong C:/Users/Mayssaa/CS211/HW4/TakeTheATrain DukeEliington Jazz 3.14
+addSong C:/Users/Mayssaa/CS211/HW4/TakeFive DaveBrubeck Jazz 5.30
+addSong C:/Users/Mayssaa/CS211/HW4/FlyMeToTheMoon FrankSinatra Jazz 2.29
+addSong C:/Users/Mayssaa/CS211/HW4/Perfect EdSheeran Pop 4.23
+addSong C:/Users/Mayssaa/CS211/HW4/TooGoodAtGoodbyes SamSmith Pop 4.25
+addSong C:/Users/Mayssaa/CS211/HW4/InCaseYouDidntKnow BrettYoung Country 3.57
+addSong C:/Users/Mayssaa/CS211/HW4/EveryLittleThing CarlyPearce Country 3.05
+addSong C:/Users/Mayssaa/CS211/HW4/LosingSleep ChrisYoung Country 3.04
+playList
+playSong ThinkingOutLoud
+playPreviousSong
+playNextSong
+playNextSong
+playNextSong
+deleteCurrentSong
+playCurrentSong
+playNextSong
+deleteSong Perfect
+deleteSong TooGoodAtGoodbyes
+deleteSong Hello
+playAll Pop
+playAll Classic
+reversePlayList
